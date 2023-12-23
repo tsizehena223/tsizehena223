@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarobidini</h1>
+<h1 align="center">Hi 👋, I'm Sarobidi</h1>
 <h3 align="center">A passionate backend developer from Madagascar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsizehena223" alt="tsizehena223" /></a> </p>
