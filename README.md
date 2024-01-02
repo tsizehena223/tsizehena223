@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarobidi</h1>
 <h3 align="center">A passionate backend developer from Madagascar</h3>
 
-- 🔭 I’m currently working on [My new portfolio](https://github.com/tsizehena223/new-portfolio)
+- 🔭 I’m currently working on [My new portfolio](https://github.com/tsizehena223/portfolio2024)
 
 - 🌱 I’m currently learning **ReactJs**
 
