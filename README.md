@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I'm a passionate full-stack developer from Madagascar</h3>
+<h3 align="center">I'm a passionate full-stack developer and a 3rd year student in software engineering</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
