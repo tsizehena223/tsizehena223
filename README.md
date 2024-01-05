@@ -12,11 +12,9 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-593D88?style=for-the-badge&logo=mysql&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF4154?style=for-the-badge&logo=linux&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/Sonic_Neovim-0078d7?style=for-the-badge&logo=sonic%20neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsizehena223&show_icons=true&locale=en&layout=compact" alt="tsizehena223" /></p>
 
