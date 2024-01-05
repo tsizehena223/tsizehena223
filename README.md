@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my profile</h1>
 <h3 align="center">I'm a passionate full-stack developer and a 3rd year student in software engineering</h3>
 <br/>
-<p align="center">## Use To Code</p>
-<p align="center">
+<h3 align="center">Languages and Tools to Code</h3>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![PHP](https://img.shields.io/badge/php-2E7EEA?style=for-the-badge&logo=php&logoColor=white)
@@ -15,6 +15,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FF4154?style=for-the-badge&logo=linux&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/Sonic_Neovim-0078d7?style=for-the-badge&logo=sonic%20neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</p>
+
 
 
