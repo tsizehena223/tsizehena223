@@ -29,6 +29,4 @@
   <a href="https://github.com/tsizehena223">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsizehena223&theme=radical" alt="Tsizehena's GitHub Contribution"/>
   </a>
-</p>
-
-
+</p> 
