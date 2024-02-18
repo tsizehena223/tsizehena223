@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">Congrats, you found me ...</h1>
 <h3 align="center">I'm a passionate full-stack developer and a 3rd year student in software engineering</h3>
 <br/>
 <h2 align="center">Languages and Tools to Code</h2>
